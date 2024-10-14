@@ -28,4 +28,5 @@
 
 平时爱养点多肉植物，在家晚上学完习会练一会瘦金体，爱打羽毛球，再就是听一些老歌
 
-![](https://rs.wzznft.com/i/2024/10/14/ucu6jt.jpg)
+<img src="https://rs.wzznft.com/i/2024/10/14/ucu6jt.jpg" alt="" width="300" />
+
