@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Elite</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**个人简介：**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 星盟安全团队成员
+- 挖掘过的漏洞：CNVD-2024-40184、CNVD-2024-36696、CNVD-2024-36507、CNVD-2024-35610……
+- 曾在[奇安信攻防社区](https://forum.butian.net/people/20163)、[FreeBuf*网络安全行业门户](https://www.freebuf.com/author/FreeBuf_445771)、[CSDN](https://blog.csdn.net/Elite__zhb)等专业论坛发表多篇精华文章
+
+**所获奖项：**
+
+- 全国大学生信息安全竞赛 三等奖
+- 京津冀信息安全网络攻防大赛 二等奖
+- “冀信2024”网络安全挑战赛 二等奖
+- “长城杯”信息安全铁人三项 一等奖
+- 黄河流域公安院校网络空间安全挑战赛 二等奖
+- 全国大学生信息安全与对抗技术竞赛 二等奖
+- ……
+
+
+
+ 
