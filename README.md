@@ -4,7 +4,7 @@
 
 - 星盟安全团队成员
 - 在CNVD，补天漏洞响应平台，漏洞盒子，eduSRC等平台均提交过多个漏洞，一些产出：CNVD-2024-40184、CNVD-2024-36696、CNVD-2024-36507、CNVD-2024-35610……
-- 曾在[奇安信攻防社区](https://forum.butian.net/people/20163)、[FreeBuf 网络安全行业门户](https://www.freebuf.com/author/FreeBuf_445771)等专业论坛发表多篇精华文章
+- 曾在[奇安信攻防社区](https://forum.butian.net/people/20163)、[FreeBuf 网络安全行业门户](https://www.freebuf.com/author/FreeBuf_445771)、[CSDN](https://blog.csdn.net/Elite__zhb)等专业论坛发表多篇精华文章
 
 🏆**所获奖项：**
 
@@ -21,7 +21,7 @@
 
 🎮**技术栈：**
 
-- CTF 主攻web方向，misc稍微会点，密码略会
+- CTF： 主攻web方向，misc稍微会点，密码略会
 - 白盒测试：审计过php和java的大型项目，并有cnvd产出
 - 黑盒测试：熟练一些测绘引擎语法，以及常见类别系统可能出现的漏洞（对漏洞的直觉），水过一些补天的礼品
 - 攻防：打过一些红队，内网还在入门，产出大多都是外围的洞。
