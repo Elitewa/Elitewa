@@ -3,6 +3,7 @@
 🧑🏻‍💻**个人简介：**
 
 - 星盟安全团队成员
+- 奇虎360 大模型渗透工程师
 - 在CNVD，补天漏洞响应平台，漏洞盒子，eduSRC等平台均提交过多个漏洞，一些产出：CNVD-2024-40184、CNVD-2024-36696、CNVD-2024-36507、CNVD-2024-35610……
 - 曾在[奇安信攻防社区](https://forum.butian.net/people/20163)、[FreeBuf 网络安全行业门户](https://www.freebuf.com/author/FreeBuf_445771)、[CSDN](https://blog.csdn.net/Elite__zhb)等专业论坛发表多篇精华文章
 
